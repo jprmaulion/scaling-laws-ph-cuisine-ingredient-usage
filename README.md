@@ -38,7 +38,7 @@ Cooking oil, water, salt, and garlic anchor the head of the distribution, the sa
 ## Graphical Abstract
 
 <p align="center">
-  <img src="figures/graphical_abstract.png" alt="Graphical Abstract" width="900">
+  <img src="outputs/graphical_abstract .png" alt="Graphical Abstract" width="900">
 </p>
 <p align="left"><em><strong>Figure.</strong> Three panel graphical abstract summarizing the scaling law analysis of ingredient usage in Philippine cuisine. <strong>(A)</strong> Zipf rank-frequency scaling across all 4,202 unique ingredients, exponent -0.892, R2 = 0.907. <strong>(B)</strong> Heaps' law vocabulary growth as recipes accumulate, exponent 0.726, R2 = 0.999. <strong>(C)</strong> Formal Clauset-Shalizi-Newman power law test on the frequency tail, alpha = 1.993, xmin = 19, confirming true power law behavior for the most frequently used ingredients. Data: 1,984 recipes from Panlasang Pinoy, scraped June 2026.</em></p>
 
